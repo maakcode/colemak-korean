@@ -7,12 +7,12 @@
 
 ## 설치
 ### 포터블 버전
-1. 바이너리 파일 다운로드
+1. 바이너리 파일 [다운로드](https://github.com/Makeeyaf/colemak-korean/releases/download/1.0.0/Colemak.exe)
 2. 실행
  
 ### 스크립트 버전
 1. Autohotkey [다운로드 및 설치](https://www.autohotkey.com)
-2. 스크립트 다운로드
+2. 스크립트 [다운로드](https://github.com/Makeeyaf/colemak-korean/archive/1.0.0.zip)
 3. 스크립트 실행
 
 ## License
