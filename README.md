@@ -1,2 +1,19 @@
-# colemak-korean
-Colemak/두벌식 한글 자판 레이아웃 (for Windows only)
+## 특징
+- **Capslock** 및 **한/영** 눌러 Colemak/한글 전환
+
+## 주의사항
+- 반드시 영문 자판 상태에서 실행할 것
+- **Autohotkey 기반**이므로 게임, 금융 등 안티핵 프로그램을 사용하는 곳에서는 사용시 주의를 요함
+
+## 설치
+### 포터블 버전
+1. 바이너리 파일 다운로드
+2. 실행
+ 
+### 스크립트 버전
+1. Autohotkey [다운로드 및 설치](https://www.autohotkey.com)
+2. 스크립트 다운로드
+3. 스크립트 실행
+
+## License
+[MIT License](https://github.com/Makeeyaf/colemak-korean/blob/master/LICENSE)
