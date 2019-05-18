@@ -1,6 +1,11 @@
 ## 특징
-- `Capslock` 눌러 Colemak/한글 전환
-- `Capslock` 오래 누르고있으면 **Capslock**상태 해제
+- `Capslock` 동작 변경
+    - `Capslock` 눌러 Colemak/한글 전환
+    - `Capslock` 오래 누르고있으면 **Capslock**상태 해제
+-  조합키 배열 변경
+    - `Control`: `Windows`
+    - `Windows`: `Alt`
+    - `Alt`: `Control`
 
 ## 주의사항
 - **Autohotkey 기반**이므로 게임, 금융 등 안티핵 프로그램을 사용하는 곳에서는 사용시 주의를 요함
